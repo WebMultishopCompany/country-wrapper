@@ -1,0 +1,12 @@
+{
+    "name": "country-wrapper-block",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
+    },
+    "devDependencies": {
+        "@wordpress/scripts": "^25.2.0"
+    }
+}
